@@ -8,8 +8,8 @@
         <title>How To Earn 6-7 Figures a Month By Pressing Your Phone Or Laptop</title>
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
-        <!-- Styles -->
-        <link rel="stylesheet" href="{{ asset('css/materialize.min.css') }}">
+        <!-- Compiled and minified CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
         <link rel="stylesheet" href="{{ asset('css/font-awesome/css/font-awesome.min.css') }}">
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     </head>
