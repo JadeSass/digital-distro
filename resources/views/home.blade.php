@@ -29,19 +29,19 @@
                         <h6 style="line-height: 35px;">This <b>FREE</b> video I'm about to send to you now explains how you can set up a profitable online business that can be generating you up to 750K a month in the affiliate marketing industry.</h6>
                         </div>
                         <div class="access center-align">
-                            <a href="https://wa.link/k42c0k" class="btn btn-flat btn-large green darken-3 white-text"><b>Yes! Send me the video</b></a> <br> <br>
+                            <a href="https://wa.link/k42c0k" class="btn btn-flat btn-large green darken-3 white-text"><b>Send the video</b></a> <br> <br>
                             <h5><b>BELOW ARE SOME TESTIMONIES OF MY STUDENTS THAT STARTED MAKING <b class="red-text">6-7 FIGURES MONTHLY</b> AFTER THEY WATCHED THE SAME VIDEO I'M ABOUT TO SEND YOU NOW.</b></h5> <br> <br>
                         </div>
                         <div class="image-testimonies containe center-align">
                             <div class="row center-align">
                                 <div class="col s12 m12 l12 xl12 center-align">
-                                    <img src="{{url('img/proof-1.png')}}" class="responsive-img materialboxed center-align" alt="proof"><br>
+                                    <img src="{{ asset('img/proof-1.png') }}" class="responsive-img materialboxed center-align" alt="proof"><br>
                                 </div><br>
                                 <div class="col s12 m12 l12 xl12 center-align">
-                                    <img src="{{url('img/proof-2.png')}}" class="responsive-img materialboxed center-align" alt="proof">
+                                    <img src="{{ asset('img/proof-2.png') }}" class="responsive-img materialboxed center-align" alt="proof">
                                 </div><br>
                                 <div class="col s12 m12 l12 xl12 center-align">
-                                    <img src="{{url('img/proof-3.png')}}" class="responsive-img materialboxed center-align" alt="proof">
+                                    <img src="{{ asset('img/proof-3.png') }}" class="responsive-img materialboxed center-align" alt="proof">
                                 </div>
                                 <p class="red-text center-align">Don't miss out.</p>
                                 <a href="https://wa.link/k42c0k" class="btn btn-flat btn-large green darken-3 white-text"><b>Send the video</b></a><br><br>
