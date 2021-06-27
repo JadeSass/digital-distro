@@ -11,8 +11,8 @@
         <!-- Styles -->
         <!-- Compiled and minified CSS -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-        <link rel="stylesheet" href="url('css/font-awesome/css/font-awesome.min.css')">
-        <link rel="stylesheet" href="url('css/app.css')">
+        <link rel="stylesheet" href="{{url('css/font-awesome/css/font-awesome.min.css')}}">
+        <link rel="stylesheet" href="{{url('css/app.css')}}">
     </head>
     <body>
         <div id="app">
