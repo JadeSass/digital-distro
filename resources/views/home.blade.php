@@ -35,10 +35,10 @@
                         <div class="image-testimonies containe center-align">
                             <div class="row center-align">
                                 <div class="col s12 m12 l12 xl12 center-align">
-                                    <img src="{{ asset('img/proof-1.png') }}" class="responsive-img materialboxed center-align" alt="proof"><br>
+                                    <img src="{{ url('img/proof-1.png') }}" class="responsive-img materialboxed center-align" alt="proof"><br>
                                 </div><br>
                                 <div class="col s12 m12 l12 xl12 center-align">
-                                    <img src="{{ asset('img/proof-2.png') }}" class="responsive-img materialboxed center-align" alt="proof">
+                                    <img src="{{ url('img/proof-2.png') }}" class="responsive-img materialboxed center-align" alt="proof">
                                 </div><br>
                                 <div class="col s12 m12 l12 xl12 center-align">
                                     <img src="{{ asset('img/proof-3.png') }}" class="responsive-img materialboxed center-align" alt="proof">
