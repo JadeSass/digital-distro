@@ -23,7 +23,10 @@
                         <h5 class="green-text center-align"><b>DISCOVER THE SECRET OF MAKING <span class="red-text">6 FIGURES</span> ONLINE.</b></h5><br>
                         <div class="container">
                         <h6 style="line-height: 35px;">Many people like the idea of earning online but don't know how to go about it. The reason is not hidden, it is because they lack the skills required to earn online and if this is you, then don't worry, this is where your journey to earning real-time income online begins.</h6><br>
-
+                        <div class="row center-align">
+                                <div class="col s12 m12 l12 xl12 center-align">
+                                    <img src="{{ url('img/FB_IMG_1623313489159.jpg') }}" class="responsive-img materialboxed center-align" alt="proof"><br>
+                                </div><br>/div>
                         <h6 style="line-height: 35px;">My name is <b>Pelumi Ezekiel</b>, I help people to build sustainable online businesses in different industries such as e-commerce, affiliate marketing, and other business industries capable of making them 6 figures monthly.</h6><br>
 
                         <h6 style="line-height: 35px;">This <b>FREE</b> video I'm about to send to you now explains how you can set up a profitable online business that can be generating you up to 750K a month in the affiliate marketing industry.</h6>
