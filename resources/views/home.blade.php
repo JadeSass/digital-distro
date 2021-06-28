@@ -26,7 +26,7 @@
                         <div class="row center-align">
                                 <div class="col s12 m12 l12 xl12 center-align">
                                     <img src="{{ url('img/FB_IMG_1623313489159.jpg') }}" class="responsive-img materialboxed center-align" alt="proof"><br>
-                                </div><br>/div>
+                                </div><br></div>
                         <h6 style="line-height: 35px;">My name is <b>Pelumi Ezekiel</b>, I help people to build sustainable online businesses in different industries such as e-commerce, affiliate marketing, and other business industries capable of making them 6 figures monthly.</h6><br>
 
                         <h6 style="line-height: 35px;">This <b>FREE</b> video I'm about to send to you now explains how you can set up a profitable online business that can be generating you up to 750K a month in the affiliate marketing industry.</h6>
