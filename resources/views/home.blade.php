@@ -19,7 +19,7 @@
                 <div class="container">
                     <div class="panel" style="padding:10px;">
                         <h4 class="black-text center-align"><b>THE UNUSUAL WAY OF<br>
-                        <span class="red-text">6 FIGURES</span> <br>MAKING MONEY IN NIGERIA.</b></h4>
+                        MAKING MONEY IN NIGERIA.</b></h4>
                         <h5 class="green-text center-align"><b>THAT MADE ME <span class="red-text">1 MILLION NAIRA</span> IN 2 MONTHS.</b></h5><br>
                         <div class="container">
                         <h6 style="line-height: 35px;">Many people like the idea of earning online but don't know how to go about it. The reason is not hidden, it is because they lack the skills required to earn online and if this is you, then don't worry, this is where your journey to earning real-time income online begins.</h6><br>
@@ -27,7 +27,7 @@
                                 <div class="col s12 m12 l12 xl12 center-align">
                                     <img src="{{ url('img/FB_IMG_1623313489159.jpg') }}" class="responsive-img materialboxed center-align" alt="proof"><br>
                                 </div><br></div>
-                        <h6 style="line-height: 35px;">My name is <b>Ezekiel Oladuti</b> and I am the king of this domain. I help people to build sustainable online businesses in different industries such as e-commerce, affiliate marketing, and other business industries capable of making them 6 figures monthly.</h6><br>
+                        <h6 style="line-height: 35px;">My name is <b>Ezekiel Oladuti</b> and I am the king of this domain and a 7 figures earner. I help people to build sustainable online businesses in different industries such as e-commerce, affiliate marketing, and other business industries capable of making them 7 figures monthly.</h6><br>
 
                         <h6 style="line-height: 35px;">This <b>FREE</b> video I'm about to send to you now explains how you can set up a profitable online business that can be generating you up to 750K a month in the affiliate marketing industry.</h6>
                         </div>
