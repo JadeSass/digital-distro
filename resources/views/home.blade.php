@@ -18,9 +18,9 @@
             <div class="bg-particles black darken-3" id="particles-js">
                 <div class="container">
                     <div class="panel" style="padding:10px;">
-                        <h4 class="black-text center-align"><b>HOW TO EARN <br>
-                        <span class="red-text">6 FIGURES</span> <br>IN A MONTH BY PRESSING YOUR PHONE OR LAPTOP.</b></h4>
-                        <h5 class="green-text center-align"><b>DISCOVER THE SECRET OF MAKING <span class="red-text">6 FIGURES</span> ONLINE.</b></h5><br>
+                        <h4 class="black-text center-align"><b>THE UNUSUAL WAY OF<br>
+                        <span class="red-text">6 FIGURES</span> <br>MAKING MONEY IN NIGERIA.</b></h4>
+                        <h5 class="green-text center-align"><b>THAT MADE ME <span class="red-text">1 MILLION NAIRA</span> IN 2 MONTHS.</b></h5><br>
                         <div class="container">
                         <h6 style="line-height: 35px;">Many people like the idea of earning online but don't know how to go about it. The reason is not hidden, it is because they lack the skills required to earn online and if this is you, then don't worry, this is where your journey to earning real-time income online begins.</h6><br>
                         <div class="row center-align">
