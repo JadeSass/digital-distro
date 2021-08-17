@@ -19,7 +19,8 @@ Route::post('/affiliate/subscribe', function(){
     $email = request('email');
 
     Newsletter::subscribe($email, 'subscribers');
-    return redirect()->back();
+    Session::flash('success');
+    return redirect()->away('https://mywa.link/jel7e29f');
 });
 
 Route::get('/access', 'HomeController@access')->name('access');
