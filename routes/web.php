@@ -17,10 +17,14 @@ Route::get('/', 'HomeController@index')->name('index');
 
 Route::post('/affiliate/subscribe', function(){
     $email = request('email');
+    $name = request('name');
 
-    Newsletter::subscribe($email, 'subscribers');
-    Session::flash('success');
+    Newsletter::subscribe($email, ['FNAME'=> $name], 'subscribers');
+    
     return redirect()->away('https://mywa.link/jel7e29f');
 });
+
+
+Auth::routes();
 
 Route::get('/access', 'HomeController@access')->name('access');
