@@ -20,6 +20,7 @@ Route::post('/affiliate/subscribe', function(){
     $name = request('name');
 
     Newsletter::subscribe($email, ['FNAME'=> $name], 'subscribers');
+    Session::flash,('success', "You successfully completed the milestone"):
     
     return redirect()->away('https://mywa.link/jel7e29f');
 });
