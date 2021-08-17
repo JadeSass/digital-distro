@@ -19,7 +19,6 @@ Route::post('/affiliate/subscribe', function(){
     $email = request('email');
 
     Newsletter::subscribe($email, 'subscribers');
-    Session::flash('subscribed', 'You have successfully subscribed to our newsletter.');
     return redirect()->away('https://mywa.link/jel7e29f');
 });
 
