@@ -31,6 +31,7 @@
                 <p style="color: rgb(255,215,6);font-size: 26px;"><strong>You'd get my affiliate marketing strategy resource pack for free which you can apply in your business and make money from it. All you need to do is join my mentorship bootcamp. <br><br> This field gives you access to begin your journey to 7 figures income. Fill in the field to get started.</strong></p>
             <form method="post" action="/affiliate/subscribe" enctype="multipart/form-data">
             {{ csrf_field() }}
+                <input class="form-control form-control-lg d-block" type="text" placeholder="Enter Your Name " name="name" autofocus="" required="" minlength="6" maxlength="225">
                 <input class="form-control form-control-lg d-block" type="email" placeholder="Enter Your Email " name="email" autofocus="" required="" minlength="6" maxlength="225">
                 <button class="btn btn-primary btn-block btn-lg" type="submit" style="border-style: solid;border-color: var(--blue);font-size: 19px;color: rgb(255,255,255);text-align: center;margin: 0px;margin-top: 23px;">Give me Access</button>
             </form>
