@@ -21,7 +21,7 @@ Route::post('/affiliate/subscribe', function(){
 
     Newsletter::subscribe($email, ['FNAME'=> $name], 'subscribers');
     
-    return redirect()->away('https://mywa.link/jel7e29f');
+    return redirect()->to('https://mywa.link/jel7e29f');
 });
 
 
