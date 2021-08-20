@@ -59,7 +59,7 @@
                     <li class="list-group-item" style="background: rgba(255,255,255,0);"><span><strong>* Bonus 1:</strong> I will guide you on how to create paypal account from Nigeria without shortcut .</span></li>
                     <li class="list-group-item" style="background: rgba(255,255,255,0);"><span><strong>* Bonus 2: </strong>You would get crypto signals in my mentorship group. My intention is to help you make back the money used to start this business.&nbsp;</span>
                     <li class="list-group-item" style="background: rgba(255,255,255,0);"><span><strong>* Bonus 3: </strong>You would learn how to build landing page and host online for just $0.99&nbsp;</span>
-                        <div class="text-capitalize text-center" style="padding: 27px;background: rgba(50,193,0,0);"><a class="text-center" href="/access" style="background: #ff0404;color: rgb(255,255,255);">Get Instant Access</a></div>
+                        <div class="text-capitalize text-center" style="padding: 27px;background: rgba(50,193,0,0);"><a id="contactButton" class="text-center" href="/access" style="background: #ff0404;color: rgb(255,255,255);">Get Instant Access</a></div>
                     </li>
                 </ul>
             </div>
@@ -90,9 +90,15 @@
                 <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-3.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
                 </div>
                 <div class="text-capitalize text-center" style="padding: 27px;background: rgba(50,193,0,0);">
-                <a class="text-center" href="/access" style="background: #ff0404;color: rgb(255,255,255);">Get Instant Access</a></div>
+                <a id="contactButton" class="text-center" href="/access" style="background: #ff0404;color: rgb(255,255,255);">Get Instant Access</a></div>
             </div>
         <!-- Scripts -->
+        <script type="text/javascript">
+document.getElementById('contactButton').addEventListener('click', function() {
+insert_event_code_here;
+...
+}, false);
+</script>
         <script src="{{asset('js/jquery.min.js')}}"></script>
         <script src="{{asset('bootstrap/js/bootstrap.min.js')}}"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
