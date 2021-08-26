@@ -80,6 +80,7 @@
                     <div class="timer-ct" style="text-align: center;padding: 10px;background: red; font-family: sans-serif;font-weight: lighter;">
                        <p style="color: yellow;"><strong><b>Offer Is Limited to</b></strong></p>
                        <div id="timer"></div>
+                       <div style="background: rgba(50,193,0,0);"><a class="text-center" href="/access" style="background: #fc0000;color: rgb(254,254,254);">Get Instant Access</a></div>
                     </div>
                 </div>
             </div>
@@ -108,7 +109,7 @@
                 </div>
                 <div class="timer-ct" style="text-align: center;padding: 10px;background: red; font-family: sans-serif;font-weight: lighter;">
                   <p style="color: yellow;"><strong><b>Offer Is Limited to</b></strong></p>
-                  <div id="timer"></div>
+                  <div id="timer2"></div>
                 </div>
                    <p><strong>One of my friend made <b style="color:red;">860k</b> from Expertnaire in ONE week and the same (one week) for all the screenshot. </strong>
                 </p>
