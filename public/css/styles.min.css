@@ -81,7 +81,7 @@ p {
     margin: 15px;
 }
 .timer-ct > #timer > div > span {
-    color: #ffffff;
+    color: red;
     display: block;
     margin-top: 15px;
     font-size: .35em;
