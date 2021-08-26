@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <!-- Facebook Pixel Code -->
+    <head>
 <script>
   !function(f,b,e,v,n,t,s)
   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -17,14 +18,13 @@
   src="https://www.facebook.com/tr?id=985335362200513&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
-    <head>
         <meta charset="utf-8">
         <meta name="facebook-domain-verification" content="b9xvgyp3t99ozh7aa869d1dczihr0o" />
         <!-- CSRF Token -->
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#000000">
-        <title>Digital Distro | Making money online with the proven unusual business model called affiliate marketing that made me 1 million naira in 2 months</title>
+        <title>Digital Distro by Ezekiel Oladuti | Making money online with the proven unusual business model called affiliate marketing that made me 1 million naira in 2 months</title>
         <meta name="twitter:description" content="making money online with the proven unusual business model called affiliate marketing that made me 1 million naira in 2 months">
         <meta property="og:type" content="website">
         <meta name="og:type" content="website">
@@ -38,6 +38,33 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
         <link rel="stylesheet" href="{{asset('css/styles.min.css')}}">
     </head>
+    <style>
+      #timer {
+    font-size: 3em;
+    font-weight: 100;
+    color: white;
+    padding: 20px;
+    width: 700px;
+    color: white;
+
+}
+      #timer div {
+    display: inline-block;
+    min-width: 90px;
+    padding: 15px;
+    background: #020b43;
+    border-radius: 10px;
+    border: 2px solid #030d52;
+    margin: 15px;
+}
+      #timer div span {
+    color: #ffffff;
+    display: block;
+    margin-top: 15px;
+    font-size: .35em;
+    font-weight: 400;
+}
+    </style>
     <body>
             <div style="background: rgb(244,4,4);padding: 17px;">
                 <p class="text-break text-capitalize d-block rubberBand animated" style="color: rgb(255,191,2);"><strong>proven unusual way to make money online with affiliate marketing&nbsp;</strong></p>
@@ -80,14 +107,42 @@
                 </div>
             </div>
             <div style="background: rgba(50,193,0,0);">
-                <p><strong>Here's what people have been saying about my trainings!</strong></p>
+                <p><strong>Wait, I know you are still asking yourself how true is all of this...<br><br>Maybe you can believe some of my students! Check the testimonials below.</strong>
+                </p>
                 <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-1.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
                 </div>
                 <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof.jpg')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
                 </div>
+                 <p><strong>If you read all of the testimonies and you still find it hard to take action, THEN THERE IS NOTHING ELSE I CAN DO FOR YOU. </strong>
+                </p>
                 <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-2.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
                 </div>
                 <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-3.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
+                </div>
+                   <p><strong>Ahmed made <b style="color:red;">350k</b> in 6 weeks of joining my Mentorship Bootcamp. Ahmed is a Programmer earning 50k per month with his 8 to 5 job.</strong>
+                </p>
+                <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-4.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
+                </div>
+                <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-5.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
+                </div>
+                <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-6.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
+                </div>
+                  <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-7.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
+                </div>
+                <div id="timer-ct" style="text-align: center;padding: 100px 60px;background: #90cbf3; font-family: sans-serif;font-weight: lighter;">
+                  <div id="timer"></div>
+                </div>
+                   <p><strong>One of my friend made <b style="color:red;">860k</b> from Expertnaire in ONE week and the same (one week) for all the screenshot. </strong>
+                </p>
+                <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-8.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
+                </div>
+                  <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-9.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
+                </div>
+                  <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-10.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
+                </div>
+                  <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-11.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
+                </div>
+                  <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-12.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
                 </div>
                 <div class="text-capitalize text-center" style="padding: 27px;background: rgba(50,193,0,0);">
                 <a id="contactButton" class="text-center" href="/access" style="background: #ff0404;color: rgb(255,255,255);">Get Instant Access</a></div>
@@ -103,5 +158,30 @@ insert_event_code_here;
         <script src="{{asset('bootstrap/js/bootstrap.min.js')}}"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
         <script src="{{asset('js/script.min.js')}}"></script>
+        <script>
+            future =function updateTimer() {
+    future = Date.parse("jun 12, 2022 01:30:00");
+ now = new Date();
+ diff = future - now;
+
+ days = Math.floor(diff / (1000 * 60 * 60 * 24));
+ hours = Math.floor(diff / (1000 * 60 * 60));
+ mins = Math.floor(diff / (1000 * 60));
+ secs = Math.floor(diff / 1000);
+
+ d = days;
+ h = hours - days * 24;
+ m = mins - hours * 60;
+ s = secs - mins * 60;
+
+ document.getElementById("timer")
+  .innerHTML =
+  '<div>' + d + '<span>Days</span></div>' +
+  '<div>' + h + '<span>Hours</span></div>' +
+  '<div>' + m + '<span>Minutes</span></div>' +
+  '<div>' + s + '<span>Seconds</span></div>';
+}
+            setInterval('updateTimer()', 1000);
+        </script>
     </body>
 </html>
