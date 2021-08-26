@@ -38,17 +38,18 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
         <link rel="stylesheet" href="{{asset('css/styles.min.css')}}">
     </head>
-    <style>
+    <body>
+          <style>
       #timer {
     font-size: 3em;
     font-weight: 100;
     color: white;
     padding: 20px;
-    width: 700px;
+    width: 100%;
     color: white;
 
 }
-      #timer div {
+      #timer > div {
     display: inline-block;
     min-width: 90px;
     padding: 15px;
@@ -57,7 +58,7 @@
     border: 2px solid #030d52;
     margin: 15px;
 }
-      #timer div span {
+      #timer > div > span {
     color: #ffffff;
     display: block;
     margin-top: 15px;
@@ -65,7 +66,6 @@
     font-weight: 400;
 }
     </style>
-    <body>
             <div style="background: rgb(244,4,4);padding: 17px;">
                 <p class="text-break text-capitalize d-block rubberBand animated" style="color: rgb(255,191,2);"><strong>proven unusual way to make money online with affiliate marketing&nbsp;</strong></p>
             </div>
@@ -129,7 +129,7 @@
                 </div>
                   <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-7.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
                 </div>
-                <div id="timer-ct" style="text-align: center;padding: 100px 60px;background: #90cbf3; font-family: sans-serif;font-weight: lighter;">
+                <div id="timer-ct" style="text-align: center;padding: auto 60px;background: #90cbf3; font-family: sans-serif;font-weight: lighter;">
                   <div id="timer"></div>
                 </div>
                    <p><strong>One of my friend made <b style="color:red;">860k</b> from Expertnaire in ONE week and the same (one week) for all the screenshot. </strong>
@@ -160,7 +160,7 @@ insert_event_code_here;
         <script src="{{asset('js/script.min.js')}}"></script>
         <script>
             future =function updateTimer() {
-    future = Date.parse("jun 12, 2022 01:30:00");
+    future = Date.parse("aug 29, 2021 01:30:00");
  now = new Date();
  diff = future - now;
 
