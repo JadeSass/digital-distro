@@ -127,7 +127,7 @@
                 <div class="text-capitalize text-center" style="padding: 27px;background: rgba(50,193,0,0);">
                 <a id="contactButton" class="text-center" href="/access" style="background: #ff0404;color: rgb(255,255,255);">Get Instant Access</a></div>
                 <div class="text-center">
-                   <p style="color:white; font-size:16px;"> The results in this training are not typical and will require implementation. <br><br> Copyright &copy: 2021 - Ezekiel Oladuti. All rights reserved.</p>
+                   <p style="color:white; font-size:16px;"> The results in this training are not typical and will require implementation. <br><br> Copyright &copy; 2021 - Ezekiel Oladuti. All rights reserved.</p>
                 </div>
             </div>
         <!-- Scripts -->
