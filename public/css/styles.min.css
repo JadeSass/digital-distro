@@ -62,7 +62,7 @@ p {
     padding: 4px;
     font-size: 26px
 }
-.timer-ct >#timer {
+.timer-ct >#timer, #timer-2 {
     font-size: 20px;
     font-weight: 500;
     color: white;
@@ -71,7 +71,7 @@ p {
     color: white;
 
 }
-.timer-ct > #timer > div {
+.timer-ct > #timer, #timer-2 > div {
     display: inline-block;
     min-width: 40px;
     padding: 5px;
@@ -80,7 +80,7 @@ p {
     border: 2px solid red;
     margin: 5px;
 }
-.timer-ct > #timer > div > span {
+.timer-ct > #timer, #timer-2 > div > span {
     color: red;
     display: block;
     margin-top: 5px;
