@@ -102,7 +102,8 @@
                 </div>
                   <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-7.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
                 </div>
-                <div class="timer-ct" style="text-align: center;padding: 10px;background: #90cbf3; font-family: sans-serif;font-weight: lighter;">
+                <div class="timer-ct" style="text-align: center;padding: 10px;background: red; font-family: sans-serif;font-weight: lighter;">
+                  <p style="color: yellow;"><strong>Offer Is Limited to</strong></p>
                   <div id="timer"></div>
                 </div>
                    <p><strong>One of my friend made <b style="color:red;">860k</b> from Expertnaire in ONE week and the same (one week) for all the screenshot. </strong>
