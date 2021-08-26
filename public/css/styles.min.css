@@ -63,7 +63,7 @@ p {
     font-size: 26px
 }
 .timer-ct >#timer {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 500;
     color: white;
     padding: 5px;
@@ -73,7 +73,7 @@ p {
 }
 .timer-ct > #timer > div {
     display: inline-block;
-    min-width: 20px;
+    min-width: 40px;
     padding: 5px;
     background: white;
     border-radius: 10px;
