@@ -77,6 +77,10 @@
                     <p style="margin: 3px;font-size: 19px;color: rgb(7,7,7);text-align: center;margin-top: 17px;"><strong>The fact that you are on this page suggests to me that you are ready to turn your life around for the better and this is what i am going to let you do.</strong></p>
                     <p style="margin: 3px;font-size: 19px;color: rgb(7,7,7);text-align: center;margin-top: 17px;"><strong>I have packaged the secret to my success in this Affiliate Marketing Bootcamp and all you need to do is [TAKE ACTION!] and join the Bootcamp.</strong></p>
                     <p style="margin: 3px;font-size: 19px;color: rgb(7,7,7);text-align: center;margin-top: 17px;"><strong>This strategies changed my life, I am positive that it will change yours too.</strong></p>
+                    <div class="timer-ct" style="text-align: center;padding: 10px;background: red; font-family: sans-serif;font-weight: lighter;">
+                       <p style="color: yellow;"><strong><b>Offer Is Limited to</b></strong></p>
+                       <div id="timer"></div>
+                    </div>
                 </div>
             </div>
             <div style="background: rgba(50,193,0,0);">
@@ -103,7 +107,7 @@
                   <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-7.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
                 </div>
                 <div class="timer-ct" style="text-align: center;padding: 10px;background: red; font-family: sans-serif;font-weight: lighter;">
-                  <p style="color: yellow;"><strong>Offer Is Limited to</strong></p>
+                  <p style="color: yellow;"><strong><b>Offer Is Limited to</b></strong></p>
                   <div id="timer"></div>
                 </div>
                    <p><strong>One of my friend made <b style="color:red;">860k</b> from Expertnaire in ONE week and the same (one week) for all the screenshot. </strong>
