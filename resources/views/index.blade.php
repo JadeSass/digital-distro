@@ -97,7 +97,7 @@
                 </div>
                 <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-3.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
                 </div>
-                   <p><strong>Ahmed made <b style="color:red;">350k</b> in 6 weeks of joining my Mentorship Bootcamp. Ahmed is a Programmer earning 50k per month with his 8 to 5 job.</strong>
+                   <p><strong>Ahmed made <b style="color:red;">158k</b> in 3 weeks of joining my Mentorship Bootcamp. Ahmed is a Programmer earning 50k per month with his 8 to 5 job.</strong>
                 </p>
                 <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-4.jpg')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
                 </div>
