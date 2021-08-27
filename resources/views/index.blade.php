@@ -58,7 +58,7 @@
                 <ul class="list-group text-left">
                     <li class="list-group-item" style="background: rgba(255,255,255,0);"><span><strong>* Bonus 1:</strong> I will guide you on how to create paypal account from Nigeria without shortcut .</span></li>
                     <li class="list-group-item" style="background: rgba(255,255,255,0);"><span><strong>* Bonus 2: </strong>You would learn how to make money from an <b>app</b> that generated me 30k in a day by pitching an offer to groups of people.&nbsp;</span>
-                    <li class="list-group-item" style="background: rgba(255,255,255,0);"><span><strong>* Bonus 3: </strong>You would learn how to build landing page and host online for just $0.99&nbsp;</span>
+                    <li class="list-group-item" style="background: rgba(255,255,255,0);"><span><strong>* Bonus 3: </strong>You would learn how to build landing page and host online for just $0.99 and make money from it by doing this same thing for other people, this also made me 110k in 1 week and 5 day.&nbsp;</span>
                         <div class="text-capitalize text-center" style="padding: 27px;background: rgba(50,193,0,0);"><a id="contactButton" class="text-center" href="/access" style="background: #ff0404;color: rgb(255,255,255);">Get Instant Access</a></div>
                     </li>
                 </ul>
