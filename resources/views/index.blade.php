@@ -124,7 +124,8 @@
                 </div>
                   <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/proof-12.jpg')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
                 </div>
-                <div class="text-capitalize text-center" style="padding: 27px;background: rgba(50,193,0,0);">
+                <div class="text-capitalize text-center" style="padding: 27px;background: teal;">
+                <p> Join over 259 Affiliate Marketers who have signed up for the masterclass now.</p>
                 <a id="contactButton" class="text-center" href="/access" style="background: #ff0404;color: rgb(255,255,255);">Get Instant Access</a></div>
                 <div class="text-center">
                    <p style="color:white; font-size:16px;"> The results in this training are not typical and will require implementation. <br><br> Copyright &copy; 2021 - Ezekiel Oladuti. All rights reserved. <br><br>This site is not a part of the Facebook website or Facebook Inc. Additionally, this site is not endorsed by Facebook in any way. FACEBOOK is a trademark of FACEBOOK, Inc. </p>
