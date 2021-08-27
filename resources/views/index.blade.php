@@ -39,6 +39,9 @@
         <link rel="stylesheet" href="{{asset('css/styles.min.css')}}">
     </head>
     <body>
+<script>
+  fbq('track', 'Contact');
+</script>
             <div style="background: rgb(244,4,4);padding: 17px;">
                 <p class="text-break text-capitalize d-block rubberBand animated" style="color: rgb(255,191,2);"><strong>proven unusual way to make money online with affiliate marketing&nbsp;</strong></p>
             </div>
