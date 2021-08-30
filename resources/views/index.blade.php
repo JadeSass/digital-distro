@@ -37,8 +37,10 @@ fbq('track', 'PageView');
 src="https://www.facebook.com/tr?id=896636917609283&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
+<script>
+  fbq('track', 'SubmitApplication');
+</script>
     </head>
-
     <body>
             <div style="background: rgb(244,4,4);padding: 17px;">
                 <p class="text-break text-capitalize d-block rubberBand animated" style="color: rgb(255,191,2);"><strong>proven unusual way to make money online with affiliate marketing&nbsp;</strong></p>
