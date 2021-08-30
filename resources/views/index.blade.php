@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
-
         <meta charset="utf-8">
         <meta name="facebook-domain-verification" content="b9xvgyp3t99ozh7aa869d1dczihr0o" />
         <!-- CSRF Token -->
@@ -21,32 +20,26 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
         <link rel="stylesheet" href="{{asset('css/styles.min.css')}}">
+        <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '896636917609283');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=896636917609283&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
     </head>
-<!-- Facebook Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '891039744872824');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=891039744872824&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=891039744872824&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
+
     <body>
-<script>
-  fbq('track', 'Contact');
-</script>
             <div style="background: rgb(244,4,4);padding: 17px;">
                 <p class="text-break text-capitalize d-block rubberBand animated" style="color: rgb(255,191,2);"><strong>proven unusual way to make money online with affiliate marketing&nbsp;</strong></p>
             </div>
