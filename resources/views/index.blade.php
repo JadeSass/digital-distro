@@ -20,26 +20,6 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
         <link rel="stylesheet" href="{{asset('css/styles.min.css')}}">
-        <!-- Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '896636917609283');
-fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=896636917609283&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
-<script>
-  fbq('track', 'SubmitApplication');
-</script>
     </head>
     <body>
             <div style="background: rgb(244,4,4);padding: 17px;">
@@ -134,13 +114,6 @@ src="https://www.facebook.com/tr?id=896636917609283&ev=PageView&noscript=1"
                    <p style="color:white; font-size:16px;"> The results in this training are not typical and will require implementation. <br><br> Copyright &copy; 2021 - Ezekiel Oladuti. All rights reserved. <br><br>This site is not a part of the Facebook website or Facebook Inc. Additionally, this site is not endorsed by Facebook in any way. FACEBOOK is a trademark of FACEBOOK, Inc. </p>
                 </div>
             </div>
-        <!-- Scripts -->
-        <script type="text/javascript">
-document.getElementById('contactButton').addEventListener('click', function() {
-insert_event_code_here;
-...
-}, false);
-</script>
         <script src="{{asset('js/jquery.min.js')}}"></script>
         <script src="{{asset('bootstrap/js/bootstrap.min.js')}}"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
