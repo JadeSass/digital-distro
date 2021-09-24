@@ -25,7 +25,7 @@
             <div style="background: rgb(244,4,4);padding: 17px;">
                 <p class="text-break text-capitalize d-block rubberBand animated" style="color: rgb(255,191,2);"><strong>proven unusual way to make money online with affiliate marketing&nbsp;</strong></p>
             </div>
-            <p data-aos="flip-up" data-aos-duration="450" data-aos-once="true" style="color: var(--white);"><i class="fa fa-share" style="color: var(--red);"></i>&nbsp;Generating 270k In A Week With Affiliate Marketing&nbsp;</p>
+            <p data-aos="flip-up" data-aos-duration="450" data-aos-once="true" style="color: var(--white);"><i class="fa fa-share" style="color: var(--red);"></i>&nbsp;Generating 270k With Affiliate Marketing&nbsp;</p>
             <div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/payment.jpg')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
             </div>
             <div class="container" id="learn" style="padding: 12px 15px;">
