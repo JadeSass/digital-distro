@@ -51,7 +51,7 @@ function gtag_report_conversion(url) {
 
     </head>
     <body>
-         fbq('track', 'Contact')
+         
         <div>
             <p style="color: rgb(255,255,255);background: rgba(255, 255, 255, 0);"><strong>Let Me Share the Secret Behind My Consistent 7 Figures Income&nbsp;</strong></p>
         </div>
