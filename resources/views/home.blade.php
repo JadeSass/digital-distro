@@ -64,7 +64,7 @@ function gtag_report_conversion(url) {
             {{ csrf_field() }}
                 <input class="form-control form-control-lg d-block" type="text" placeholder="Enter Your Name " name="name" autofocus="" required="" minlength="6" maxlength="225"><br>
                 <input class="form-control form-control-lg d-block" type="email" placeholder="Enter Your Email " name="email" autofocus="" required="" minlength="6" maxlength="225">
-                <button class="btn btn-primary btn-block btn-lg" type="submit" style="border-style: solid;border-color: var(--blue);font-size: 19px;color: rgb(255,255,255);text-align: center;margin: 0px;margin-top: 23px;">Give me Access</button>
+                <button onclick="goog_report_conversion('https://digitaldistro.xyz/affiliate/subscribe')" class="btn btn-primary btn-block btn-lg" type="submit" style="border-style: solid;border-color: var(--blue);font-size: 19px;color: rgb(255,255,255);text-align: center;margin: 0px;margin-top: 23px;">Give me Access</button>
             </form>
             </div>
         </div>
