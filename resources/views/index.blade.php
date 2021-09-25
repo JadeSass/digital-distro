@@ -20,6 +20,16 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
         <link rel="stylesheet" href="{{asset('css/styles.min.css')}}">
+        <!-- Global site tag (gtag.js) - Google Ads: 469508305 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-469508305"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-469508305');
+</script>
+
     </head>
     <body>
             <div style="background: rgb(244,4,4);padding: 17px;">
