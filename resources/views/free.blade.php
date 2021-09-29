@@ -25,13 +25,13 @@
     </head>
     <body>
         <div>
-            <p style="color: rgb(255,255,255);background: rgba(255, 255, 255, 0);"><strong>The Secret Behind My Consistent 7 Figures Income in Affiliate marketing&nbsp;</strong></p>
+            <p style="color: rgb(255,255,255);background: rgba(255, 255, 255, 0);"><strong>HOW TO MAKE 750K WEEKLY WITH THE SIMPLE BUSINESS MODEL CALLED AFFILIATE MARKETING&nbsp;</strong></p>
         </div>
         <div class="row" style="background: rgba(251,251,251,0);">
             <div class="contar">
-               <iframe src="https://www.youtube.com/embed/w60X5izsEzM?modestbranding=1 frameborder="0" loop=1 allow="accelerometer; autoplay; rel=0 encrypted-media; gyroscope;"></iframe>
+               <iframe src="https://www.youtube.com/embed/w60X5izsEzM?modestbranding=1&showinfo=0&fs=0"></iframe>
             <div>
-            <a href="https://tinyurl.com/affiliate-marketing-income-B2" class="btn btn-danger btn-block">I HAVE WATCHED THE VIDEO</a>
+            <a href="https://tinyurl.com/affiliate-marketing-income-B2" class="btn btn-success btn-large btn-block">GET ACCESS TO THE TRAINING (50,000 NGN) Price Increases soon.</a>
         </div>
         <!-- Scripts -->
         <script src="{{asset('js/jquery.min.js')}}"></script>
