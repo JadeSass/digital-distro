@@ -31,7 +31,7 @@
             <div class="contar">
                <iframe src="https://www.youtube.com/embed/w60X5izsEzM?modestbranding=1 frameborder="0" loop=1 allow="accelerometer; autoplay; rel=0 encrypted-media; gyroscope;"></iframe>
             <div>
-            <a href="" class="btn btn-danger">Get Started</button>
+            <a href="" class="btn btn-danger btn-block">I HAVE WATCHED THE VIDEO</a>
         </div>
         <!-- Scripts -->
         <script src="{{asset('js/jquery.min.js')}}"></script>
