@@ -24,22 +24,12 @@
         <!-- Global site tag (gtag.js) - Google Ads: 469508305 -->
     </head>
     <body>
-         
         <div>
-            <p style="color: rgb(255,255,255);background: rgba(255, 255, 255, 0);"><strong>Let Me Share the Secret Behind My Consistent 7 Figures Income&nbsp;</strong></p>
+            <p style="color: rgb(255,255,255);background: rgba(255, 255, 255, 0);"><strong>The Secret Behind My Consistent 7 Figures Income in Affiliate marketing&nbsp;</strong></p>
         </div>
         <div class="row" style="background: rgba(251,251,251,0);">
-            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6" style="background: rgba(251,251,251,0);"><div class="container text-center d-inline-flex d-md-flex justify-content-center align-items-center align-content-center justify-content-md-center align-items-md-center" style="background: rgba(255,255,255,0);padding: 9px 15px;"><img src="{{asset('img/gift.png')}}" class="img-fluid d-block justify-content-center align-items-center align-content-center">
-            </div></div>
-            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6" style="background: rgba(251,251,251,0);">
-                <p style="color: rgb(255,215,6);font-size: 26px;"><strong>You'd get my affiliate marketing strategy resource pack for free which you can apply in your business and make money from it. All you need to do is join my mentorship bootcamp. <br><br> This field gives you access to begin your journey to 7 figures income. Fill in the field to get started.</strong></p>
-            <form method="post" action="/affiliate/subscribe" enctype="multipart/form-data">
-            {{ csrf_field() }}
-                <input class="form-control form-control-lg d-block" type="text" placeholder="Enter Your Name " name="name" autofocus="" required="" minlength="6" maxlength="225"><br>
-                <input class="form-control form-control-lg d-block" type="email" placeholder="Enter Your Email " name="email" autofocus="" required="" minlength="6" maxlength="225">
-                <button onclick="goog_report_conversion('https://digitaldistro.xyz/affiliate/subscribe')" class="btn btn-primary btn-block btn-lg" type="submit" style="border-style: solid;border-color: var(--blue);font-size: 19px;color: rgb(255,255,255);text-align: center;margin: 0px;margin-top: 23px;">Give me Access</button>
-            </form>
-            </div>
+            https://youtu.be/w60X5izsEzM<br>
+            <a href="" class="btn btn-danger">Get Started</button>
         </div>
         <!-- Scripts -->
         <script src="{{asset('js/jquery.min.js')}}"></script>
