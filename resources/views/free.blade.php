@@ -31,7 +31,7 @@
             <div class="contar">
                <iframe src="https://www.youtube.com/embed/w60X5izsEzM?modestbranding=1&showinfo=0&fs=0" width="100%"></iframe>
             <div>
-            <a href="https://tinyurl.com/affiliate-marketing-income-B2" class="btn btn-success btn-large btn-block"><b> REGISTER - N50,000 Price Increases to N60,000 By October 16, 20 </b></a>
+            <a href="https://tinyurl.com/affiliate-marketing-income-B2" class="btn btn-success btn-large btn-block"><b> I'M DONE WATCHING THE VIDEO </b></a>
         </div>
         <!-- Scripts -->
         <script src="{{asset('js/jquery.min.js')}}"></script>
