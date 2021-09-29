@@ -15,6 +15,9 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', 'HomeController@index')->name('index');
 
+/*Route::get('/', 'HomeController@free')->name('free');*/
+
+
 Route::post('/affiliate/subscribe', function(){
     $email = request('email');
     $name = request('name');
