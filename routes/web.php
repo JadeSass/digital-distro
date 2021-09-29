@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', 'HomeController@free')->name('free');
+Route::get('/', 'HomeController@index')->name('index');
 
 Route::post('/affiliate/subscribe', function(){
     $email = request('email');
@@ -28,4 +28,3 @@ Route::post('/affiliate/subscribe', function(){
 Auth::routes();
 
 Route::get('/access', 'HomeController@access')->name('access');
-Route::get('/home', 'HomeController@index')->name('index');
