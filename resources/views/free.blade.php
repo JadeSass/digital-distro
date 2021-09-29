@@ -31,7 +31,7 @@
             <div class="contar">
                <iframe src="https://www.youtube.com/embed/w60X5izsEzM?modestbranding=1 frameborder="0" loop=1 allow="accelerometer; autoplay; rel=0 encrypted-media; gyroscope;"></iframe>
             <div>
-            <a href="" class="btn btn-danger btn-block">I HAVE WATCHED THE VIDEO</a>
+            <a href="https://tinyurl.com/affiliate-marketing-income-B2" class="btn btn-danger btn-block">I HAVE WATCHED THE VIDEO</a>
         </div>
         <!-- Scripts -->
         <script src="{{asset('js/jquery.min.js')}}"></script>
