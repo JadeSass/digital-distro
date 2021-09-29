@@ -21,6 +21,10 @@ class HomeController extends Controller
     {
         return view('index');
     }
+    public function free()
+    {
+        return view('free');
+    }
     public function access()
     {
         return view('home');
