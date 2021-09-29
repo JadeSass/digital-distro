@@ -28,7 +28,7 @@
             <p style="color: rgb(255,255,255);background: rgba(255, 255, 255, 0);"><strong>The Secret Behind My Consistent 7 Figures Income in Affiliate marketing&nbsp;</strong></p>
         </div>
         <div class="row" style="background: rgba(251,251,251,0);">
-            <div class="container">
+            <div class="contar">
                <iframe src="https://www.youtube.com/embed/w60X5izsEzM" title="72IG Implementation Program" frameborder="0" modestbranding=1 loop=1 allow="accelerometer; autoplay; clipboard-write; rel=0 encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <div>
             <a href="" class="btn btn-danger">Get Started</button>
