@@ -29,7 +29,7 @@
         </div>
         <div class="row" style="background: rgba(251,251,251,0);">
             <div class="container">
-               <iframe width="932" height="521" src="https://www.youtube.com/embed/w60X5izsEzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+               <iframe src="https://www.youtube.com/embed/w60X5izsEzM" title="72IG Implementation Program" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <div>
             <a href="" class="btn btn-danger">Get Started</button>
         </div>
