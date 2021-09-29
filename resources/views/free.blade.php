@@ -13,7 +13,7 @@
         <meta property="og:type" content="website">
         <meta name="og:type" content="website">
         <meta property="og:title" content="making money online with the proven unusual business model called affiliate marketing that made me 1 million naira in 2 months">
-        <meta name="description" content="making money online with the proven unusual business model called affiliate marketing that made me 1 million naira in 2 months">
+        <meta name="description" content="Affiliate Marketing from beginner to Master">
         <meta name="twitter:card" content="summary">
         <link rel="stylesheet" href="{{asset('bootstrap/css/bootstrap.min.css')}}">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=ABeeZee">
