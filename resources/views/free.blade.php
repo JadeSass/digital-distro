@@ -31,7 +31,7 @@
             <div class="contar">
                <iframe src="https://www.youtube.com/embed/w60X5izsEzM?modestbranding=1&showinfo=0&fs=0"></iframe>
             <div>
-            <a href="https://tinyurl.com/affiliate-marketing-income-B2" class="btn btn-success btn-large btn-block">GET ACCESS TO THE TRAINING (50,000 NGN) Price Increases soon.</a>
+            <a href="https://tinyurl.com/affiliate-marketing-income-B2" class="btn btn-success btn-large btn-block"><b> REGISTER - N50,000 Price Increases to N60,000 By October 16, 20 </b></a>
         </div>
         <!-- Scripts -->
         <script src="{{asset('js/jquery.min.js')}}"></script>
