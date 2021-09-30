@@ -25,7 +25,7 @@
     </head>
     <body>
         <div>
-            <p style="color: rgb(255,255,255);background: rgba(255, 255, 255, 0);"><strong>HOW TO MAKE 750K WEEKLY WITH THE SIMPLE BUSINESS MODEL CALLED AFFILIATE MARKETING&nbsp;</strong></p>
+            <p style="color: rgb(255,255,255);background: rgba(255, 255, 255, 0);"><strong>HOW TO MAKE 750K MONTHLY WITH THE SIMPLE BUSINESS MODEL CALLED AFFILIATE MARKETING&nbsp;</strong></p>
         </div>
         <div class="col-12" style="background: rgba(251,251,251,0);">
             <div class="contar">
